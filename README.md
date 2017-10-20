@@ -1,7 +1,7 @@
-#Static Resume
+# Static Resume
 static resume using html, bootstrap and css. This is a totally static example
 
-##Running
+## Running
 * Clone the repository and cd to it
 * run `npm i -g http-server` to install http-server
 * run `http-server` to start the server
