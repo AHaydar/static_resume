@@ -1,5 +1,5 @@
 # Static Resume
-static resume using html, bootstrap and css. This is a totally static example
+Static resume using html, bootstrap and css. This is a totally static example
 
 ## Running
 * Clone the repository and cd to it
