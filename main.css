@@ -1,0 +1,46 @@
+body {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.thick-grey-border{
+    border-color: darkgray;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 200px;
+  }
+
+  hr {
+    border-width: 3px;
+  }
+  
+
+  .jumbotronwidth
+{
+max-width:100%;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
+
+.nopadding, .nopadding>div {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.removebottompadding {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+.removetoppadding {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.display-inline {
+   display: inline; 
+}
